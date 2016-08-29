@@ -1,0 +1,22 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "This is test node project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shobuz03/NodeHelloWorld.git"
+  },
+  "author": "Zayn An Nisa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shobuz03/NodeHelloWorld/issues"
+  },
+  "homepage": "https://github.com/shobuz03/NodeHelloWorld#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
